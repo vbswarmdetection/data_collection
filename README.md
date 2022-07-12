@@ -11,5 +11,5 @@ Filtering between 100-1000 Hz and normalising the audio, may maintain the sound 
 - Inital band pass filter
 [![Filter](https://raw.githubusercontent.com/vbswarmdetection/data_collection/main/band_pass_filter.png "Filter")](http://https://raw.githubusercontent.com/vbswarmdetection/data_collection/main/band_pass_filter.png "Filter")
 
-- [Filtered Audio File](http://https://github.com/vbswarmdetection/data_collection/raw/main/MVI_0185_Filtered_Normalised.wav "Filtered Audio File")
+- [Filtered Audio File](https://github.com/vbswarmdetection/data_collection/blob/main/MVI_0185_Filtered_Normalised.wav?raw=true "Filtered Audio File")
 
