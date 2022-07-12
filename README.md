@@ -2,7 +2,7 @@
 
 Some inital data alanysis of the audio file 0185.mp3
 
-Filtering between 100-1000 Hz and normalising the audio, may maintain the subjectic sound of the swarm. 
+Filtering between 100-1000 Hz and normalising the audio, may maintain the sound of the swarm. 
 
 - Frequency spectrum plot 
 
